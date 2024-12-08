@@ -304,7 +304,7 @@ int main()
         break;
         case 15:
 		{
-			printf("Tam biet.\n");
+			printf("Hen gap lai.\n");
 			return 0; 
 		} 
         default:
